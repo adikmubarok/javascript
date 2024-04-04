@@ -1,0 +1,7 @@
+const kelulusan = prompt("masukan nilai anda:");
+
+if (kelulusan >= 75) {
+    console.log("anda lulus mata kuliah ini");
+}else {
+    console.log("anda belum lulus mata kuliah ini")
+}
